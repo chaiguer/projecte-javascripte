@@ -1,4 +1,1 @@
-# projecte-javascripte
-# projecte-javascripte
-# projecte-javascripte
-# projecte-javascripte
+# projecte-javascripte to teacher badoo
